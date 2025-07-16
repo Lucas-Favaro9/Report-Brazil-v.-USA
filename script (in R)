@@ -1,5 +1,5 @@
 # Setting the environment
-setwd("C:/Users/Lucas/Downloads")
+# setwd("C:/Users/Lucas/Downloads")
 
 # Uploading packages
 library(tidyverse)
